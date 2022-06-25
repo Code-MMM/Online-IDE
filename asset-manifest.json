@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Online-IDE/static/css/main.650c6bab.css",
+    "main.js": "/Online-IDE/static/js/main.a0585736.js",
+    "static/js/787.3cc815d3.chunk.js": "/Online-IDE/static/js/787.3cc815d3.chunk.js",
+    "index.html": "/Online-IDE/index.html",
+    "main.650c6bab.css.map": "/Online-IDE/static/css/main.650c6bab.css.map",
+    "main.a0585736.js.map": "/Online-IDE/static/js/main.a0585736.js.map",
+    "787.3cc815d3.chunk.js.map": "/Online-IDE/static/js/787.3cc815d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.650c6bab.css",
+    "static/js/main.a0585736.js"
+  ]
+}
